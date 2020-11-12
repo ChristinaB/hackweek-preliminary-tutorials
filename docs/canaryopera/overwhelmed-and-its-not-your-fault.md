@@ -4,6 +4,14 @@
 
 > We are facing unprecedented levels of social upheaval, environmental destruction, and political discord. All of these events influence our cognitive capacities—and it’s not for the better. In [The Brain Science of Attention and Overwhelm](https://www.mindful.org/youre-overwhelmed-and-its-not-your-fault/) [1] by Neuroscientist Dr. Amishi Jha
 
+# Introducing the Atlas of Emotions 
+
+[Use this interactive tool to build vocabulary, learn skills, and gain control over how you respond](http://atlasofemotions.org/)
+
+The consensus among nearly 250 scientists studying the subject is that five emotions can be considered universal, in the sense that all humans experience them, regardless of culture: Anger, Fear, Sadness, Disgust, and Enjoyment. Each of these emotions has its own map in the Atlas, and each has its own special character. Read this article on [Introducing the Atlas of Emotions, project with the Dalai Lama and Paul & Eve Ekman; by Eric Rodenbeck, Apr 26, 2016 · 5 min read](https://hi.stamen.com/in-2014-the-dalai-lama-asked-his-friend-scientist-dr-2a46f0c6bd80)
+
+[Inner Peace? The Dalai Lama Made a Website for That ](https://www.nytimes.com/2016/05/07/world/dalai-lama-website-atlas-of-emotions.html?_r=0) The Dalai Lama spoke about the Atlas of Emotions study at the Wilson House on the Sisters of St. Francis’ Assisi Heights campus in Rochester, Minn. for The New York Times, By Kevin Randall May 6, 2016
+
 # Real-time assessment of stress 
 
 [Real-time measurement of human salivary cortisol for the assessment of psychological stress using a smartphone](https://www.sciencedirect.com/science/article/pii/S221418041400021X#:~:text=A%20lateral%20flow%20immune-strip%20was%20developed%20for%20salivary,pad%2C%20a%20nitrocellulose%20membrane%2C%20and%20an%20absorbent%20pad)  Choi et al; Sensing and Bio-Sensing Research
